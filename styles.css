@@ -1,0 +1,10 @@
+body {
+  font-family: 'Century Gothic';
+  text-align: center;
+  background: ("http://cdn.c.photoshelter.com/img-get/I0000sF4wBYX_4oI/s/750/750/Cherry-Beach-Soccer-Field.jpg")
+}
+
+input[type="email"] {
+  padding: 20xp;
+  background-color: red;
+}
